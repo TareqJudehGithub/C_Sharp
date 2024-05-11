@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\bin\Debug\net8.0\AutoImplementedProp.exe
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\bin\Debug\net8.0\AutoImplementedProp.deps.json
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\bin\Debug\net8.0\AutoImplementedProp.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\bin\Debug\net8.0\AutoImplementedProp.dll
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\bin\Debug\net8.0\AutoImplementedProp.pdb
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.dll
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\refint\AutoImplementedProp.dll
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.pdb
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\AutoImplementedProp.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\AutoImplementedProp\obj\Debug\net8.0\ref\AutoImplementedProp.dll

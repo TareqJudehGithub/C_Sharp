@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\bin\Debug\net8.0\StaticMembers.exe
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\bin\Debug\net8.0\StaticMembers.deps.json
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\bin\Debug\net8.0\StaticMembers.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\bin\Debug\net8.0\StaticMembers.dll
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\bin\Debug\net8.0\StaticMembers.pdb
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.dll
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\refint\StaticMembers.dll
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.pdb
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\StaticMembers.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\StaticMembers\obj\Debug\net8.0\ref\StaticMembers.dll

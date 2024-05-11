@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\bin\Debug\net8.0\InstanceMembers.exe
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\bin\Debug\net8.0\InstanceMembers.deps.json
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\bin\Debug\net8.0\InstanceMembers.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\bin\Debug\net8.0\InstanceMembers.dll
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\bin\Debug\net8.0\InstanceMembers.pdb
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.dll
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\refint\InstanceMembers.dll
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.pdb
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\InstanceMembers.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\InstanceMembers\obj\Debug\net8.0\ref\InstanceMembers.dll
