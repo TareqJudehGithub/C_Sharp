@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\bin\Debug\net8.0\InherTypesAccMod.exe
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\bin\Debug\net8.0\InherTypesAccMod.deps.json
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\bin\Debug\net8.0\InherTypesAccMod.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\bin\Debug\net8.0\InherTypesAccMod.dll
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\bin\Debug\net8.0\InherTypesAccMod.pdb
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.dll
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\refint\InherTypesAccMod.dll
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.pdb
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\InherTypesAccMod.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\InherTypesAccMod\obj\Debug\net8.0\ref\InherTypesAccMod.dll

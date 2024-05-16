@@ -11,13 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroToClasses", "IntroToCl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{AB9158A8-95BD-4D66-9F10-3953814E74FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{7B8938B0-4830-47C8-8D1A-52258FBC5898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{7B8938B0-4830-47C8-8D1A-52258FBC5898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstanceMembers", "InstanceMembers\InstanceMembers.csproj", "{BDE18E86-C387-408F-AF23-774D97785386}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstanceMembers", "InstanceMembers\InstanceMembers.csproj", "{BDE18E86-C387-408F-AF23-774D97785386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{2E941362-15FF-41FA-976A-F58BFBA41081}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Properties.csproj", "{2E941362-15FF-41FA-976A-F58BFBA41081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementedProp", "AutoImplementedProp\AutoImplementedProp.csproj", "{F511169B-888D-4655-9E48-E57DF56522DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoImplementedProp", "AutoImplementedProp\AutoImplementedProp.csproj", "{F511169B-888D-4655-9E48-E57DF56522DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inheritance", "Inheritance", "{E936B385-CB13-4A1F-B6F2-5AF95AE1A32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceBasics", "InheritanceBasics\InheritanceBasics.csproj", "{47B62A70-A269-41C5-B938-8D77A4E932BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InherTypesAccMod", "InherTypesAccMod\InherTypesAccMod.csproj", "{0A0E1161-7D69-402F-9667-55622018000E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +59,14 @@ Global
 		{F511169B-888D-4655-9E48-E57DF56522DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F511169B-888D-4655-9E48-E57DF56522DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F511169B-888D-4655-9E48-E57DF56522DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B62A70-A269-41C5-B938-8D77A4E932BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B62A70-A269-41C5-B938-8D77A4E932BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B62A70-A269-41C5-B938-8D77A4E932BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B62A70-A269-41C5-B938-8D77A4E932BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0E1161-7D69-402F-9667-55622018000E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0E1161-7D69-402F-9667-55622018000E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0E1161-7D69-402F-9667-55622018000E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0E1161-7D69-402F-9667-55622018000E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +78,8 @@ Global
 		{BDE18E86-C387-408F-AF23-774D97785386} = {FAFF79F8-26A3-47D9-B3D8-83C2BDF1247B}
 		{2E941362-15FF-41FA-976A-F58BFBA41081} = {FAFF79F8-26A3-47D9-B3D8-83C2BDF1247B}
 		{F511169B-888D-4655-9E48-E57DF56522DD} = {FAFF79F8-26A3-47D9-B3D8-83C2BDF1247B}
+		{47B62A70-A269-41C5-B938-8D77A4E932BF} = {E936B385-CB13-4A1F-B6F2-5AF95AE1A32B}
+		{0A0E1161-7D69-402F-9667-55622018000E} = {E936B385-CB13-4A1F-B6F2-5AF95AE1A32B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A0D0704-6816-48F5-82D5-7A368F5EF6C4}
