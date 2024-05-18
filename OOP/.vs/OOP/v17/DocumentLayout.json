@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\web\\ASP_NET\\Trevor\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A0E1161-7D69-402F-9667-55622018000E}|InherTypesAccMod\\InherTypesAccMod.csproj|e:\\web\\asp_net\\trevor\\oop\\inhertypesaccmod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0E1161-7D69-402F-9667-55622018000E}|InherTypesAccMod\\InherTypesAccMod.csproj|solutionrelative:inhertypesaccmod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61F146DC-6C3B-4A74-9358-68743C18E022}|MethodHiding\\MethodHiding.csproj|e:\\web\\asp_net\\trevor\\oop\\methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F146DC-6C3B-4A74-9358-68743C18E022}|MethodHiding\\MethodHiding.csproj|solutionrelative:methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\InherTypesAccMod\\Program.cs",
-              "RelativeDocumentMoniker": "InherTypesAccMod\\Program.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\InherTypesAccMod\\Program.cs",
-              "RelativeToolTip": "InherTypesAccMod\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\MethodHiding\\Program.cs",
+              "RelativeDocumentMoniker": "MethodHiding\\Program.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\MethodHiding\\Program.cs",
+              "RelativeToolTip": "MethodHiding\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:20:44.227Z",
+              "WhenOpened": "2024-05-18T10:53:10.893Z",
               "EditorCaption": ""
             }
           ]
