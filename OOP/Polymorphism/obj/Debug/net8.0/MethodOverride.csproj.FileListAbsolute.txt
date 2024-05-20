@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\MethodOverride.exe
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\MethodOverride.deps.json
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\MethodOverride.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\MethodOverride.dll
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\MethodOverride.pdb
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.dll
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\refint\MethodOverride.dll
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.pdb
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\MethodOverride.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\ref\MethodOverride.dll

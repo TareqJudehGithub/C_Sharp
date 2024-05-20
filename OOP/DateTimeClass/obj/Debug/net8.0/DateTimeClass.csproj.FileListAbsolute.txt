@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\bin\Debug\net8.0\DateTimeClass.exe
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\bin\Debug\net8.0\DateTimeClass.deps.json
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\bin\Debug\net8.0\DateTimeClass.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\bin\Debug\net8.0\DateTimeClass.dll
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\bin\Debug\net8.0\DateTimeClass.pdb
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.dll
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\refint\DateTimeClass.dll
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.pdb
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\DateTimeClass.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\DateTimeClass\obj\Debug\net8.0\ref\DateTimeClass.dll

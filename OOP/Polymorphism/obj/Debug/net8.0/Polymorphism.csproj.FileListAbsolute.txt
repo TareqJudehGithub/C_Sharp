@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll

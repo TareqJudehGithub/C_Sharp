@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Abstraction\bin\Debug\net8.0\Abstraction.exe
+E:\web\ASP_NET\Trevor\OOP\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+E:\web\ASP_NET\Trevor\OOP\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Abstraction\bin\Debug\net8.0\Abstraction.dll
+E:\web\ASP_NET\Trevor\OOP\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.dll
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll

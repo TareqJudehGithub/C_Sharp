@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\bin\Debug\net8.0\OverridingVsHiding.exe
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\bin\Debug\net8.0\OverridingVsHiding.deps.json
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\bin\Debug\net8.0\OverridingVsHiding.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\bin\Debug\net8.0\OverridingVsHiding.dll
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\bin\Debug\net8.0\OverridingVsHiding.pdb
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.dll
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\refint\OverridingVsHiding.dll
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.pdb
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\OverridingVsHiding.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\OverridingVsHiding\obj\Debug\net8.0\ref\OverridingVsHiding.dll
