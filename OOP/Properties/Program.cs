@@ -1,8 +1,17 @@
-﻿Console.WriteLine("Properties\n");
+﻿using Properties;
+
+Console.WriteLine("Properties\n");
 
 #region Objects
 Employee emp1 = new Employee(id: 1, name: "John Smith");
 emp1.ShowEmpDesc();
+Console.WriteLine("");
+
+Rectangle rectangle = new Rectangle(width: 10, height: 15);
+int calcArea = rectangle.CalculateArea();
+Console.WriteLine(calcArea);
+
+Console.WriteLine(DateTime.Now.Year);
 #endregion
 
 /* 

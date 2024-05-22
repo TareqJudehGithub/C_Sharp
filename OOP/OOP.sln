@@ -43,9 +43,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverride", "Polymorphism\MethodOverride.csproj", "{5E4D5385-B87C-4EC0-83AD-C26CC60E88CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingVsHiding", "OverridingVsHiding\OverridingVsHiding.csproj", "{63613AAE-1AE5-4329-9CDC-978833E485F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverridingVsHiding", "OverridingVsHiding\OverridingVsHiding.csproj", "{63613AAE-1AE5-4329-9CDC-978833E485F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{B4C8B6A2-9E22-49C5-9FE6-8FCBC1C3274F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{B4C8B6A2-9E22-49C5-9FE6-8FCBC1C3274F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Static", "Static", "{3E078C82-91E1-49E5-9007-D70C84CA5745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassesMethods", "StaticClassesMethods\StaticClassesMethods.csproj", "{982B30D9-7101-43ED-A7F6-3A7EE643FBAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +125,10 @@ Global
 		{B4C8B6A2-9E22-49C5-9FE6-8FCBC1C3274F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4C8B6A2-9E22-49C5-9FE6-8FCBC1C3274F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4C8B6A2-9E22-49C5-9FE6-8FCBC1C3274F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982B30D9-7101-43ED-A7F6-3A7EE643FBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982B30D9-7101-43ED-A7F6-3A7EE643FBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982B30D9-7101-43ED-A7F6-3A7EE643FBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982B30D9-7101-43ED-A7F6-3A7EE643FBAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,6 +150,7 @@ Global
 		{5E4D5385-B87C-4EC0-83AD-C26CC60E88CF} = {D0546187-4158-4B85-9B1F-498BDD934B15}
 		{63613AAE-1AE5-4329-9CDC-978833E485F3} = {D0546187-4158-4B85-9B1F-498BDD934B15}
 		{B4C8B6A2-9E22-49C5-9FE6-8FCBC1C3274F} = {D0546187-4158-4B85-9B1F-498BDD934B15}
+		{982B30D9-7101-43ED-A7F6-3A7EE643FBAD} = {3E078C82-91E1-49E5-9007-D70C84CA5745}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A0D0704-6816-48F5-82D5-7A368F5EF6C4}
