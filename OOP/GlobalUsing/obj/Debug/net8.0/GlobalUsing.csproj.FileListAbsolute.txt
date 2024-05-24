@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\bin\Debug\net8.0\GlobalUsing.exe
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\bin\Debug\net8.0\GlobalUsing.deps.json
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\bin\Debug\net8.0\GlobalUsing.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\bin\Debug\net8.0\GlobalUsing.dll
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\bin\Debug\net8.0\GlobalUsing.pdb
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.dll
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\refint\GlobalUsing.dll
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.pdb
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\GlobalUsing.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\GlobalUsing\obj\Debug\net8.0\ref\GlobalUsing.dll

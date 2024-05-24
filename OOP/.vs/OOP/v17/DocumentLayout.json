@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\web\\ASP_NET\\Trevor\\OOP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A97CFD-7449-4AF2-8CA2-2F862F7F0474}|Interfaces\\Interfaces.csproj|e:\\web\\asp_net\\trevor\\oop\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A97CFD-7449-4AF2-8CA2-2F862F7F0474}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:03:33.976Z",
+              "EditorCaption": ""
             }
           ]
         }

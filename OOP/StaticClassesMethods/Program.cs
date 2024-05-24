@@ -2,35 +2,40 @@
 
 
 // Objects
-Calculator calculator = new Calculator();
 
-Console.WriteLine($"10 + 5 = {calculator.Add(10, 5)}");
-Console.WriteLine($"10 - 5 = {calculator.Subtract(10, 5)}");
-Console.WriteLine($"10 * 5 = {calculator.Multiplie(10, 5)}");
-Console.WriteLine($"10 / 5 = {calculator.Divide(10, 5)}");
+Console.WriteLine($"10 + 5 = {Calculator.Add(10, 5)} on {Calculator.ShowDate()}");
+Console.WriteLine($"10 - 5 = {Calculator.Subtract(10, 5)}");
+Console.WriteLine($"10 * 5 = {Calculator.Multiplie(10, 5)}");
+Console.WriteLine($"10 / 5 = {Calculator.Divide(10, 5)}");
+Console.ReadKey();
 
-internal class Calculator
+internal static class Calculator
 {
     #region Backing Fields
-    private int _a;
-    private int _b;
-
+    // A static class contains no instance fields,properties, or contructors.
+    private static DateTime _operationDate;
     #endregion
 
     #region Properties
-    public int A { get; set; }
-    public int B { get; set; }
-
+    // A static class contains no instance fields,properties, or contructors.
     #endregion
 
     #region Constructors
-
+    // A static class contains no instance fields,properties, or contructors.
+    static Calculator()
+    {
+        _operationDate = DateTime.Now;
+    }
+    public static string ShowDate()
+    {
+        return _operationDate.ToShortDateString();
+    }
     #endregion
 
     #region Methods
-    public int Add(int a, int b) => a + b;
-    public int Subtract(int a, int b) => a - b;
-    public int Multiplie(int a, int b) => a * b;
-    public int Divide(int a, int b) => a / b;
+    public static int Add(int a, int b) => a + b;
+    public static int Subtract(int a, int b) => a - b;
+    public static int Multiplie(int a, int b) => a * b;
+    public static int Divide(int a, int b) => a / b;
     #endregion
 }
