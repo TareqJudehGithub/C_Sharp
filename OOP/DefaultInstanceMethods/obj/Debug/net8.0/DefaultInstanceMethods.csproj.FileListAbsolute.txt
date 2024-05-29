@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\bin\Debug\net8.0\DefaultInstanceMethods.exe
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\bin\Debug\net8.0\DefaultInstanceMethods.deps.json
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\bin\Debug\net8.0\DefaultInstanceMethods.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\bin\Debug\net8.0\DefaultInstanceMethods.dll
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\bin\Debug\net8.0\DefaultInstanceMethods.pdb
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.dll
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\refint\DefaultInstanceMethods.dll
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.pdb
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\DefaultInstanceMethods.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\DefaultInstanceMethods\obj\Debug\net8.0\ref\DefaultInstanceMethods.dll

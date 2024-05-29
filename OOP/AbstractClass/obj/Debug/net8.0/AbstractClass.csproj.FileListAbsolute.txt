@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll
