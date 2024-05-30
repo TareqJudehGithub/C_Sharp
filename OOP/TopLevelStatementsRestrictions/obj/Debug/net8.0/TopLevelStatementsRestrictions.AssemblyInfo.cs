@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopLevelStatementsRestrictions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd50421d4a8921e7c7468e9e6e4c071efa0a0988")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b70bc540ec63e079287bd2741a954ee537bb2616")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopLevelStatementsRestrictions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopLevelStatementsRestrictions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

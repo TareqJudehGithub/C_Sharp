@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "E:\\web\\ASP_NET\\Trevor\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A15256D6-490C-4F61-82CF-40C8D284556F}|AbstractClassVsInterface\\AbstractClassVsInterface.csproj|e:\\web\\asp_net\\trevor\\oop\\abstractclassvsinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15256D6-490C-4F61-82CF-40C8D284556F}|AbstractClassVsInterface\\AbstractClassVsInterface.csproj|solutionrelative:abstractclassvsinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B18F7FE-9C1C-459C-B52A-CC5E53DF24F9}|DefaultInstanceMethods\\DefaultInstanceMethods.csproj|e:\\web\\asp_net\\trevor\\oop\\defaultinstancemethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B18F7FE-9C1C-459C-B52A-CC5E53DF24F9}|DefaultInstanceMethods\\DefaultInstanceMethods.csproj|solutionrelative:defaultinstancemethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39210131-E1D0-4FC3-9AFA-3B500D4864E7}|AbstractClass\\AbstractClass.csproj|e:\\web\\asp_net\\trevor\\oop\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39210131-E1D0-4FC3-9AFA-3B500D4864E7}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4DD152B-4625-4BC8-89EF-62ACE455A7D9}|VariableScope\\VariableScope.csproj|e:\\web\\asp_net\\trevor\\oop\\variablescope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DD152B-4625-4BC8-89EF-62ACE455A7D9}|VariableScope\\VariableScope.csproj|solutionrelative:variablescope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,39 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\AbstractClassVsInterface\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractClassVsInterface\\Program.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\AbstractClassVsInterface\\Program.cs",
-              "RelativeToolTip": "AbstractClassVsInterface\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBkAAAA3AAAA",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\VariableScope\\Program.cs",
+              "RelativeDocumentMoniker": "VariableScope\\Program.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\VariableScope\\Program.cs",
+              "RelativeToolTip": "VariableScope\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T17:29:51.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\DefaultInstanceMethods\\Program.cs",
-              "RelativeDocumentMoniker": "DefaultInstanceMethods\\Program.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\DefaultInstanceMethods\\Program.cs",
-              "RelativeToolTip": "DefaultInstanceMethods\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T15:44:11.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\AbstractClass\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\AbstractClass\\Program.cs",
-              "RelativeToolTip": "AbstractClass\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T15:51:56.181Z",
+              "WhenOpened": "2024-05-30T11:00:14.229Z",
               "EditorCaption": ""
             }
           ]
