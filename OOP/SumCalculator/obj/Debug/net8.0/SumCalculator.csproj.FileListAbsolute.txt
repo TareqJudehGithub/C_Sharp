@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\bin\Debug\net8.0\SumCalculator.exe
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\bin\Debug\net8.0\SumCalculator.deps.json
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\bin\Debug\net8.0\SumCalculator.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\bin\Debug\net8.0\SumCalculator.dll
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\bin\Debug\net8.0\SumCalculator.pdb
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.dll
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\refint\SumCalculator.dll
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.pdb
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\SumCalculator.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\SumCalculator\obj\Debug\net8.0\ref\SumCalculator.dll

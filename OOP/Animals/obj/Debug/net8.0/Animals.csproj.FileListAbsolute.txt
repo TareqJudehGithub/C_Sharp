@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Animals\bin\Debug\net8.0\Animals.exe
+E:\web\ASP_NET\Trevor\OOP\Animals\bin\Debug\net8.0\Animals.deps.json
+E:\web\ASP_NET\Trevor\OOP\Animals\bin\Debug\net8.0\Animals.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Animals\bin\Debug\net8.0\Animals.dll
+E:\web\ASP_NET\Trevor\OOP\Animals\bin\Debug\net8.0\Animals.pdb
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.dll
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\refint\Animals.dll
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.pdb
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Animals\obj\Debug\net8.0\ref\Animals.dll

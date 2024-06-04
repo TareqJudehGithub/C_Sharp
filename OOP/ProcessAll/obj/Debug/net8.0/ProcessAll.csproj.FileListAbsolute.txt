@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\bin\Debug\net8.0\ProcessAll.exe
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\bin\Debug\net8.0\ProcessAll.deps.json
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\bin\Debug\net8.0\ProcessAll.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\bin\Debug\net8.0\ProcessAll.dll
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\bin\Debug\net8.0\ProcessAll.pdb
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.dll
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\refint\ProcessAll.dll
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.pdb
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ProcessAll.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\ProcessAll\obj\Debug\net8.0\ref\ProcessAll.dll

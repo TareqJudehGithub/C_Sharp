@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Pizza\bin\Debug\net8.0\Pizza.exe
+E:\web\ASP_NET\Trevor\OOP\Pizza\bin\Debug\net8.0\Pizza.deps.json
+E:\web\ASP_NET\Trevor\OOP\Pizza\bin\Debug\net8.0\Pizza.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Pizza\bin\Debug\net8.0\Pizza.dll
+E:\web\ASP_NET\Trevor\OOP\Pizza\bin\Debug\net8.0\Pizza.pdb
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.dll
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\refint\Pizza.dll
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.pdb
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\Pizza.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Pizza\obj\Debug\net8.0\ref\Pizza.dll
