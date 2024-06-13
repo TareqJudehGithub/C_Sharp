@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.exe
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.deps.json
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.dll
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\bin\Debug\net8.0\LibraryManagementSys.pdb
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.dll
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\refint\LibraryManagementSys.dll
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.pdb
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\LibraryManagementSys.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\LibraryManagementSys\obj\Debug\net8.0\ref\LibraryManagementSys.dll

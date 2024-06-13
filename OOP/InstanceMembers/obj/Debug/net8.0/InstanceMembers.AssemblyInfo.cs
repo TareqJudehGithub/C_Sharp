@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InstanceMembers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6958edd67833bb24763589e82ff9ae8fdd660b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe0bbc6709d61e18b46c5066485bdc0bcce99e39")]
 [assembly: System.Reflection.AssemblyProductAttribute("InstanceMembers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InstanceMembers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

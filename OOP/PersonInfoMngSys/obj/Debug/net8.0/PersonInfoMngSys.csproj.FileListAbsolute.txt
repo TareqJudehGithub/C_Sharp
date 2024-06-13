@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\bin\Debug\net8.0\PersonInfoMngSys.exe
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\bin\Debug\net8.0\PersonInfoMngSys.deps.json
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\bin\Debug\net8.0\PersonInfoMngSys.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\bin\Debug\net8.0\PersonInfoMngSys.dll
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\bin\Debug\net8.0\PersonInfoMngSys.pdb
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.dll
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\refint\PersonInfoMngSys.dll
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.pdb
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\PersonInfoMngSys.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\PersonInfoMngSys\obj\Debug\net8.0\ref\PersonInfoMngSys.dll
