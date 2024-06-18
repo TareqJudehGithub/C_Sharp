@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\bin\Debug\net8.0\IntroToArrayExercise.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\bin\Debug\net8.0\IntroToArrayExercise.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\bin\Debug\net8.0\IntroToArrayExercise.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\bin\Debug\net8.0\IntroToArrayExercise.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\bin\Debug\net8.0\IntroToArrayExercise.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\refint\IntroToArrayExercise.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\IntroToArrayExercise.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\IntroToArrayExercise\obj\Debug\net8.0\ref\IntroToArrayExercise.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\bin\Debug\net8.0\MinMax.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\bin\Debug\net8.0\MinMax.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\bin\Debug\net8.0\MinMax.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\bin\Debug\net8.0\MinMax.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\bin\Debug\net8.0\MinMax.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\refint\MinMax.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\MinMax.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\MinMax\obj\Debug\net8.0\ref\MinMax.dll
