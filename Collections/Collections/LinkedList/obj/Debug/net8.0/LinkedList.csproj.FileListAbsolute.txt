@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\bin\Debug\net8.0\LinkedList.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\bin\Debug\net8.0\LinkedList.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\bin\Debug\net8.0\ArrayList.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\bin\Debug\net8.0\ArrayList.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
