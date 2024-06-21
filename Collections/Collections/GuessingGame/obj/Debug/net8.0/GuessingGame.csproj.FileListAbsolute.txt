@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\bin\Debug\net8.0\GuessingGame.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\bin\Debug\net8.0\GuessingGame.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\bin\Debug\net8.0\GuessingGame.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\bin\Debug\net8.0\GuessingGame.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\bin\Debug\net8.0\GuessingGame.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\refint\GuessingGame.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\GuessingGame.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\GuessingGame\obj\Debug\net8.0\ref\GuessingGame.dll

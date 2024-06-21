@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

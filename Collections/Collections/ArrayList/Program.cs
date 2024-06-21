@@ -12,3 +12,5 @@ foreach (int num in arrayList)
 {
     Console.WriteLine(num);
 }
+
+Console.WriteLine(arrayList[0]);

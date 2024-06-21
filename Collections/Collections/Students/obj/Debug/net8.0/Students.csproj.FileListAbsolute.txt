@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\bin\Debug\net8.0\Students.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\bin\Debug\net8.0\Students.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\bin\Debug\net8.0\Students.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\bin\Debug\net8.0\Students.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\refint\Students.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\Students\obj\Debug\net8.0\ref\Students.dll

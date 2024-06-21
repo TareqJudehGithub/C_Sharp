@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\bin\Debug\net8.0\HotPotato.exe
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\bin\Debug\net8.0\HotPotato.deps.json
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\bin\Debug\net8.0\HotPotato.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\bin\Debug\net8.0\HotPotato.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\bin\Debug\net8.0\HotPotato.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.sourcelink.json
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\refint\HotPotato.dll
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.pdb
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\HotPotato.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Collections\Collections\HotPotato\obj\Debug\net8.0\ref\HotPotato.dll
