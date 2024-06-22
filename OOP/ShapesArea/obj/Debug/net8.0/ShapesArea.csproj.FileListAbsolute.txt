@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\bin\Debug\net8.0\ShapesArea.exe
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\bin\Debug\net8.0\ShapesArea.deps.json
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\bin\Debug\net8.0\ShapesArea.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\bin\Debug\net8.0\ShapesArea.dll
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\bin\Debug\net8.0\ShapesArea.pdb
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.dll
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\refint\ShapesArea.dll
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.pdb
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ShapesArea.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\ShapesArea\obj\Debug\net8.0\ref\ShapesArea.dll

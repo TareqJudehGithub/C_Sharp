@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\bin\Debug\net8.0\RectangleProject.exe
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\bin\Debug\net8.0\RectangleProject.deps.json
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\bin\Debug\net8.0\RectangleProject.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\bin\Debug\net8.0\RectangleProject.dll
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\bin\Debug\net8.0\RectangleProject.pdb
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.dll
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\refint\RectangleProject.dll
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.pdb
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\RectangleProject.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\RectangleProject\obj\Debug\net8.0\ref\RectangleProject.dll

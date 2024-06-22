@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\web\\ASP_NET\\Trevor\\OOP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DBAC15-0149-440E-8F18-7E55E92F4A38}|RectangleProject\\RectangleProject.csproj|e:\\web\\asp_net\\trevor\\oop\\rectangleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DBAC15-0149-440E-8F18-7E55E92F4A38}|RectangleProject\\RectangleProject.csproj|solutionrelative:rectangleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\RectangleProject\\Program.cs",
+              "RelativeDocumentMoniker": "RectangleProject\\Program.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\RectangleProject\\Program.cs",
+              "RelativeToolTip": "RectangleProject\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:12:40.372Z",
+              "EditorCaption": ""
             }
           ]
         }
