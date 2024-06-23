@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\web\\ASP_NET\\Trevor\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|e:\\web\\asp_net\\trevor\\oop\\carexhibit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|solutionrelative:carexhibit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|e:\\web\\asp_net\\trevor\\oop\\libraryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|solutionrelative:libraryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|e:\\web\\asp_net\\trevor\\oop\\carexhibit\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|solutionrelative:carexhibit\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|e:\\web\\asp_net\\trevor\\oop\\libraryproject\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|solutionrelative:libraryproject\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|e:\\web\\asp_net\\trevor\\oop\\carexhibit\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|solutionrelative:carexhibit\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|e:\\web\\asp_net\\trevor\\oop\\libraryproject\\premiumlibrarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|solutionrelative:libraryproject\\premiumlibrarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|e:\\web\\asp_net\\trevor\\oop\\carexhibit\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{238BBD16-F321-40A2-B86F-F7BFC12D4896}|CarExhibit\\CarExhibit.csproj|solutionrelative:carexhibit\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|e:\\web\\asp_net\\trevor\\oop\\libraryproject\\librarymembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F88100-CF98-4996-8BFC-CEB2F19F8DA1}|LibraryProject\\LibraryProject.csproj|solutionrelative:libraryproject\\librarymembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,51 +40,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\Program.cs",
-              "RelativeDocumentMoniker": "CarExhibit\\Program.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\Program.cs",
-              "RelativeToolTip": "CarExhibit\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAwwC4AAAAtAAAA",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\Program.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\Program.cs",
+              "RelativeToolTip": "LibraryProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T11:35:40.593Z",
+              "WhenOpened": "2024-06-23T17:15:56.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ElectricCar.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\ElectricCar.cs",
-              "RelativeDocumentMoniker": "CarExhibit\\ElectricCar.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\ElectricCar.cs",
-              "RelativeToolTip": "CarExhibit\\ElectricCar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Title": "PremiumLibraryMember.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\PremiumLibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\PremiumLibraryMember.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\PremiumLibraryMember.cs",
+              "RelativeToolTip": "LibraryProject\\PremiumLibraryMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T12:01:22.991Z",
+              "WhenOpened": "2024-06-23T17:24:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\LibraryMember.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryProject\\LibraryMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:23:29.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SportsCar.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\SportsCar.cs",
-              "RelativeDocumentMoniker": "CarExhibit\\SportsCar.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\SportsCar.cs",
-              "RelativeToolTip": "CarExhibit\\SportsCar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Title": "LibraryMembership.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\LibraryMembership.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\LibraryMembership.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\LibraryProject\\LibraryMembership.cs",
+              "RelativeToolTip": "LibraryProject\\LibraryMembership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T11:49:19.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\Car.cs",
-              "RelativeDocumentMoniker": "CarExhibit\\Car.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\OOP\\CarExhibit\\Car.cs",
-              "RelativeToolTip": "CarExhibit\\Car.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAgwCAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T11:40:17.768Z",
+              "WhenOpened": "2024-06-23T17:18:37.758Z",
               "EditorCaption": ""
             }
           ]
