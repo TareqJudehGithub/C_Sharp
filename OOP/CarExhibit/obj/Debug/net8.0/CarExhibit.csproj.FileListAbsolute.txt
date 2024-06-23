@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\bin\Debug\net8.0\CarExhibit.exe
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\bin\Debug\net8.0\CarExhibit.deps.json
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\bin\Debug\net8.0\CarExhibit.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\bin\Debug\net8.0\CarExhibit.dll
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\bin\Debug\net8.0\CarExhibit.pdb
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.dll
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\refint\CarExhibit.dll
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.pdb
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\CarExhibit.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\CarExhibit\obj\Debug\net8.0\ref\CarExhibit.dll
