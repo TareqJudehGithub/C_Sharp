@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\bin\Debug\net8.0\Enumeration.exe
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\bin\Debug\net8.0\Enumeration.deps.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\bin\Debug\net8.0\Enumeration.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\bin\Debug\net8.0\Enumeration.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\bin\Debug\net8.0\Enumeration.pdb
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.sourcelink.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\refint\Enumeration.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.pdb
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\Enumeration.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\Enumeration\obj\Debug\net8.0\ref\Enumeration.dll
