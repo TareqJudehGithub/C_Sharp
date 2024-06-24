@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\bin\Debug\net8.0\TraficLights.exe
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\bin\Debug\net8.0\TraficLights.deps.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\bin\Debug\net8.0\TraficLights.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\bin\Debug\net8.0\TraficLights.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\bin\Debug\net8.0\TraficLights.pdb
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.sourcelink.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\refint\TraficLights.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.pdb
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\TraficLights.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\TraficLights\obj\Debug\net8.0\ref\TraficLights.dll

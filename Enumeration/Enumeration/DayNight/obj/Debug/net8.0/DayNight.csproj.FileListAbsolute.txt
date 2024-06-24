@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\bin\Debug\net8.0\DayNight.exe
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\bin\Debug\net8.0\DayNight.deps.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\bin\Debug\net8.0\DayNight.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\bin\Debug\net8.0\DayNight.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\bin\Debug\net8.0\DayNight.pdb
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.sourcelink.json
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\refint\DayNight.dll
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.pdb
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\DayNight.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Enumeration\Enumeration\DayNight\obj\Debug\net8.0\ref\DayNight.dll
