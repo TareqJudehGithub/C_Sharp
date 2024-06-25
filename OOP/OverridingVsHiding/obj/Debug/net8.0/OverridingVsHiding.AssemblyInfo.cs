@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OverridingVsHiding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1847911706c6958ccc5ce8c94542cb45e4a3552")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8bb162dd5c12d61fc2d28ac1a5ef72cc7bebebc")]
 [assembly: System.Reflection.AssemblyProductAttribute("OverridingVsHiding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OverridingVsHiding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

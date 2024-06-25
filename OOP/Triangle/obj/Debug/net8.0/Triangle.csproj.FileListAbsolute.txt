@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Triangle\bin\Debug\net8.0\Triangle.exe
+E:\web\ASP_NET\Trevor\OOP\Triangle\bin\Debug\net8.0\Triangle.deps.json
+E:\web\ASP_NET\Trevor\OOP\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Triangle\bin\Debug\net8.0\Triangle.dll
+E:\web\ASP_NET\Trevor\OOP\Triangle\bin\Debug\net8.0\Triangle.pdb
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.dll
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.pdb
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Triangle\obj\Debug\net8.0\ref\Triangle.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\OOP\Structures\bin\Debug\net8.0\Structures.exe
+E:\web\ASP_NET\Trevor\OOP\Structures\bin\Debug\net8.0\Structures.deps.json
+E:\web\ASP_NET\Trevor\OOP\Structures\bin\Debug\net8.0\Structures.runtimeconfig.json
+E:\web\ASP_NET\Trevor\OOP\Structures\bin\Debug\net8.0\Structures.dll
+E:\web\ASP_NET\Trevor\OOP\Structures\bin\Debug\net8.0\Structures.pdb
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.sourcelink.json
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.dll
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\refint\Structures.dll
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.pdb
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\Structures.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\OOP\Structures\obj\Debug\net8.0\ref\Structures.dll
