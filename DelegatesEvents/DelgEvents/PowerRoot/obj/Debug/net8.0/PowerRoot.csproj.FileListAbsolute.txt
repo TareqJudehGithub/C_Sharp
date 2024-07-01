@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\bin\Debug\net8.0\PowerRoot.exe
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\bin\Debug\net8.0\PowerRoot.deps.json
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\bin\Debug\net8.0\PowerRoot.runtimeconfig.json
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\bin\Debug\net8.0\PowerRoot.dll
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\bin\Debug\net8.0\PowerRoot.pdb
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.sourcelink.json
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.dll
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\refint\PowerRoot.dll
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.pdb
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\PowerRoot.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\PowerRoot\obj\Debug\net8.0\ref\PowerRoot.dll
