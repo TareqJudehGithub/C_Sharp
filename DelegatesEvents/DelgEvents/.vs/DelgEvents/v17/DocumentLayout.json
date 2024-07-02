@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A7E564-938F-4A86-AE23-0A348B802E3C}|PowerRoot\\PowerRoot.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\powerroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A7E564-938F-4A86-AE23-0A348B802E3C}|PowerRoot\\PowerRoot.csproj|solutionrelative:powerroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\events\\customtaskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|solutionrelative:events\\customtaskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A7E564-938F-4A86-AE23-0A348B802E3C}|PowerRoot\\PowerRoot.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\powerroot\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A7E564-938F-4A86-AE23-0A348B802E3C}|PowerRoot\\PowerRoot.csproj|solutionrelative:powerroot\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\events\\taskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|solutionrelative:events\\taskassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A7E564-938F-4A86-AE23-0A348B802E3C}|PowerRoot\\PowerRoot.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\powerroot\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A7E564-938F-4A86-AE23-0A348B802E3C}|PowerRoot\\PowerRoot.csproj|solutionrelative:powerroot\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\events\\officetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|solutionrelative:events\\officetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|e:\\web\\asp_net\\trevor\\delegatesevents\\delgevents\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB55F7D-F6BA-4769-8E6D-C098C9462CDD}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,42 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\PowerRoot\\Program.cs",
-              "RelativeDocumentMoniker": "PowerRoot\\Program.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\PowerRoot\\Program.cs",
-              "RelativeToolTip": "PowerRoot\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T11:54:35.427Z",
+              "WhenOpened": "2024-07-01T10:52:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomTaskAssignmentManager.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\CustomTaskAssignmentManager.cs",
+              "RelativeDocumentMoniker": "Events\\CustomTaskAssignmentManager.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\CustomTaskAssignmentManager.cs",
+              "RelativeToolTip": "Events\\CustomTaskAssignmentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:38:19.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delegates.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\PowerRoot\\Delegates.cs",
-              "RelativeDocumentMoniker": "PowerRoot\\Delegates.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\PowerRoot\\Delegates.cs",
-              "RelativeToolTip": "PowerRoot\\Delegates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Title": "TaskAssignmentManager.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\TaskAssignmentManager.cs",
+              "RelativeDocumentMoniker": "Events\\TaskAssignmentManager.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\TaskAssignmentManager.cs",
+              "RelativeToolTip": "Events\\TaskAssignmentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T12:23:38.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T17:30:35.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Operations.cs",
-              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\PowerRoot\\Operations.cs",
-              "RelativeDocumentMoniker": "PowerRoot\\Operations.cs",
-              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\PowerRoot\\Operations.cs",
-              "RelativeToolTip": "PowerRoot\\Operations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Title": "OfficeTask.cs",
+              "DocumentMoniker": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\OfficeTask.cs",
+              "RelativeDocumentMoniker": "Events\\OfficeTask.cs",
+              "ToolTip": "E:\\web\\ASP_NET\\Trevor\\DelegatesEvents\\DelgEvents\\Events\\OfficeTask.cs",
+              "RelativeToolTip": "Events\\OfficeTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T11:53:03.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T17:26:34.532Z"
             }
           ]
         }

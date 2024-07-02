@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelgEvents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4730357c11e87dca7cc23821496b39430bf43c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e7ad861186488fa45620ca4eb40c0b44d380099")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelgEvents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelgEvents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

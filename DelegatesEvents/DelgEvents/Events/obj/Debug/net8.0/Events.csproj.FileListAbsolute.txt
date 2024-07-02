@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.sourcelink.json
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\bin\Debug\net8.0\Events.exe
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\bin\Debug\net8.0\Events.deps.json
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\bin\Debug\net8.0\Events.dll
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\bin\Debug\net8.0\Events.pdb
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.dll
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\refint\Events.dll
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.pdb
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\DelegatesEvents\DelgEvents\Events\obj\Debug\net8.0\ref\Events.dll
