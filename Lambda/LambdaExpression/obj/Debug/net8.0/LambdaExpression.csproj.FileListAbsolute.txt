@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\bin\Debug\net8.0\LambdaExpression.exe
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\bin\Debug\net8.0\LambdaExpression.deps.json
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\bin\Debug\net8.0\LambdaExpression.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\bin\Debug\net8.0\LambdaExpression.dll
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\bin\Debug\net8.0\LambdaExpression.pdb
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.sourcelink.json
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.dll
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\refint\LambdaExpression.dll
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.pdb
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\LambdaExpression.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Lambda\LambdaExpression\obj\Debug\net8.0\ref\LambdaExpression.dll
