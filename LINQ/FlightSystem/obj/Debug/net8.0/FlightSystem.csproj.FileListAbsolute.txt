@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\bin\Debug\net8.0\FlightSystem.exe
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\bin\Debug\net8.0\FlightSystem.deps.json
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\bin\Debug\net8.0\FlightSystem.runtimeconfig.json
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\bin\Debug\net8.0\FlightSystem.dll
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\bin\Debug\net8.0\FlightSystem.pdb
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.sourcelink.json
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.dll
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\refint\FlightSystem.dll
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.pdb
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\FlightSystem.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\LINQ\FlightSystem\obj\Debug\net8.0\ref\FlightSystem.dll

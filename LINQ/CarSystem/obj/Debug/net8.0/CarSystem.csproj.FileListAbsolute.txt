@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\bin\Debug\net8.0\CarSystem.exe
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\bin\Debug\net8.0\CarSystem.deps.json
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\bin\Debug\net8.0\CarSystem.runtimeconfig.json
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\bin\Debug\net8.0\CarSystem.dll
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\bin\Debug\net8.0\CarSystem.pdb
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.sourcelink.json
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.dll
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\refint\CarSystem.dll
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.pdb
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\CarSystem.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\LINQ\CarSystem\obj\Debug\net8.0\ref\CarSystem.dll
