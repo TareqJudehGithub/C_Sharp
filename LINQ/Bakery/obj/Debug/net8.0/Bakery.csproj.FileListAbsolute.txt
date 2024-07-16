@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\LINQ\Bakery\bin\Debug\net8.0\Bakery.exe
+E:\web\ASP_NET\Trevor\LINQ\Bakery\bin\Debug\net8.0\Bakery.deps.json
+E:\web\ASP_NET\Trevor\LINQ\Bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+E:\web\ASP_NET\Trevor\LINQ\Bakery\bin\Debug\net8.0\Bakery.dll
+E:\web\ASP_NET\Trevor\LINQ\Bakery\bin\Debug\net8.0\Bakery.pdb
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.dll
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\refint\Bakery.dll
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.pdb
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\LINQ\Bakery\obj\Debug\net8.0\ref\Bakery.dll
